@@ -1,2 +1,2 @@
 # phone-and-email
-Program using regex to find and copy phone numbers and email addresses into clipboard
+Program using regex to find phone numbers and email addresses from copied text.
